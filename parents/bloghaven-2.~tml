@@ -1,0 +1,712 @@
+
+
+
+<html lang="en-US" class="no-js">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Title and CSS Links -->
+
+    <title>The Stonehaven School &#8211; The Bloghaven</title>
+    <link rel='stylesheet' href='../plugins/goodlayers-core/plugins/combine/style.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='../plugins/goodlayers-core/include/css/page-builder.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='../plugins/revslider/public/assets/css/settings.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='../css/style-core.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='../css/kingster-style-custom.css' type='text/css' media='all' />
+
+    <link href="https://fonts.googleapis.com/css?family=Playfair+Display:700%2C400" rel="stylesheet" property="stylesheet" type="text/css" media="all">
+    <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Poppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CABeeZee%3Aregular%2Citalic&amp;subset=latin%2Clatin-ext%2Cdevanagari&amp;ver=5.0.3' type='text/css' media='all' />
+
+<!-- End Title and CSS Links -->
+
+<!-- Begin Browser Icon Code -->
+
+<link rel="apple-touch-icon" sizes="180x180" href="../icon/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="../icon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="../icon/favicon-16x16.png">
+<link rel="manifest" href="../icon/site.webmanifest">
+<link rel="mask-icon" href="../icon/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#00aba9">
+<meta name="theme-color" content="#ffffff">
+
+<!-- End Browser Icon Code -->
+
+<!-- Google Analytics Script -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-70362008-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-70362008-1');
+</script>
+
+</head>
+
+<body class="home page-template-default page page-id-2039 gdlr-core-body woocommerce-no-js tribe-no-js kingster-body kingster-body-front kingster-full  kingster-with-sticky-navigation  kingster-blockquote-style-1 gdlr-core-link-to-lightbox">
+
+<!-- Begin White Mobile Header -->
+
+    <div class="kingster-mobile-header-wrap">
+        <div class="kingster-mobile-header kingster-header-background kingster-style-slide kingster-sticky-mobile-navigation " id="kingster-mobile-header">
+            <div class="kingster-mobile-header-container kingster-container clearfix">
+                <div class="kingster-logo  kingster-item-pdlr">
+                    <div class="kingster-logo-inner">
+                        <a class="" href="../index.html"><img src="../images/logo.png" alt="Stonehaven Logo" /></a>
+                    </div>
+                </div>
+                <div class="kingster-mobile-menu-right">
+                    
+                    <div class="kingster-mobile-menu"><a class="kingster-mm-menu-button kingster-mobile-menu-button kingster-mobile-button-hamburger" href="#kingster-mobile-menu"><span></span></a>
+                        <div class="kingster-mm-menu-wrap kingster-navigation-font" id="kingster-mobile-menu" data-slide="right">
+                            <ul id="menu-main-navigation" class="m-menu">
+                                <li class="menu-item menu-item-home current-menu-item menu-item-has-children"><a href="../index.html">Home</a></li>
+                                <li class="menu-item menu-item-has-children"><a href="../about-us/school-history.html">About Us</a>
+                                    <ul class="sub-menu">
+                                        <li class="menu-item"><a href="../about-us/welcome.html">Welcome</a></li>
+                                        <li class="menu-item"><a href="../about-us/school-history.html">History</a></li>
+                                        <li class="menu-item"><a href="../about-us/profile.html">Profile</a></li>
+                                        <li class="menu-item menu-item-has-children"><a href="../about-us/mission.html">Mission & Vision</a>
+                                            <ul class="sub-menu">
+                                                <li class="menu-item"><a href="../about-us/mission.html">Mission & Vision Statements</a></li>
+                                                <li class="menu-item"><a href="../about-us/faith.html">Statement of Faith</a></li>
+                                                <li class="menu-item"><a href="../about-us/strategicplan.html">Strategic Plan</a></li>
+					    </ul>
+				        </li>
+					<li class="menu-item menu-item-has-children"><a href="../about-us/faculty.html">Our People</a>
+                                            <ul class="sub-menu">
+                                                <li class="menu-item"><a href="../about-us/faculty.html">Faculty & Staff</a></li>
+                                                <li class="menu-item"><a href="../about-us/administration.html">Administration</a></li>
+                                                <li class="menu-item"><a href="../about-us/board.html">Board of Trustees</a></li>
+					    </ul>
+				        </li>
+                                        <li class="menu-item"><a href="../about-us/contact.html">Contact</a></li>
+                                        <li class="menu-item"><a href="../about-us/employment.html">Employment</a></li>
+                                    </ul>
+                                </li>
+                                <li class="menu-item menu-item-has-children"><a href="../academics/classical.html">Academics</a>
+                                    <ul class="sub-menu">
+                                        <li class="menu-item menu-item-has-children"><a href="../academics/classical.html">General</a>
+                                            <ul class="sub-menu">
+                                                <li class="menu-item"><a href="../academics/classical.html">Classical Trivium</a></li>
+                                                <li class="menu-item"><a href="../academics/scope-sequence.html">K-12 Scope & Sequence</a></li>
+                                                <li class="menu-item"><a href="../academics/fine-arts.html">Fine Arts</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="menu-item menu-item-has-children"><a href="../academics/lower-philosophy.html">Lower School</a>
+                                            <ul class="sub-menu">
+                                                <li class="menu-item"><a href="../academics/lower-philosophy.html">Grammar Philosophy</a></li>
+                                                <li class="menu-item"><a href="../academics/lower-curriculum.html">Curriculum</a></li>
+                                                <li class="menu-item"><a href="../about-us/faculty.html#lower">Faculty & Staff</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="menu-item menu-item-has-children"><a href="../academics/upper-philosophy.html">Upper School</a>
+                                            <ul class="sub-menu">
+                                                <li class="menu-item"><a href="../academics/upper-philosophy.html">Logic & Rhetoric Philosophy</a></li>
+                                                <li class="menu-item"><a href="../academics/upper-curriculum.html">Curriculum</a></li>
+                                                <li class="menu-item"><a href="../about-us/faculty.html#upper">Faculty & Staff</a></li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li class="menu-item menu-item-has-children"><a href="../admissions/admissions-process.html">Admissions</a>
+                                    <ul class="sub-menu">
+                                        <li class="menu-item"><a href="../admissions/admissions-process.html">Admissions Process</a></li>
+                                        <li class="menu-item"><a href="../admissions/affordability.html">Affordability</a></li>
+                                        <li class="menu-item"><a href="../admissions/tours-openhouses.html">Tours & Open Houses</a></li>
+                                        <li class="menu-item"><a href="https://stonehaven.almastart.com/">Begin Application</a></li>
+                                    </ul>
+                                </li>
+                                <li class="menu-item menu-item-has-children"><a href="../student-life/life.html">Student Life</a>
+                                    <ul class="sub-menu">
+                                        <li class="menu-item"><a href="../student-life/life.html">Student Life</a></li>
+                                        <li class="menu-item"><a href="../student-life/athletics.html">Athletics</a></li>
+                                        <li class="menu-item"><a href="../student-life/enrichment.html">Enrichment Programs</a></li>
+                                        <li class="menu-item"><a href="../student-life/pathfinders.html">Pathfinders</a></li>
+                                        <li class="menu-item"><a href="../student-life/house.html">House</a></li>
+                                        <li class="menu-item"><a href="../student-life/after-school.html">After School Program</a></li>
+                                        <li class="menu-item"><a href="../student-life/video-library.html">Video Library</a></li>
+                                    </ul>
+                                </li>
+                                <li class="menu-item"><a href="../parents/partnership.html">Parents</a>
+                                    <ul class="sub-menu">
+                                        <li class="menu-item"><a href="../parents/partnership.html">Parent Partnership</a></li>
+                                        <li class="menu-item"><a href="../parents/resources.html">Parent Resources</a></li>
+                                        <li class="menu-item"><a href="../parents/cultivate.html">Cultivate</a></li>
+                                        <li class="menu-item"><a href="../parents/bloghaven.html">The Bloghaven</a></li>
+                                        <li class="menu-item"><a href="../parents/alma.html">Alma</a></li>
+                                        <li class="menu-item"><a href="../parents/r2g2podcast.html">R2G2 Podcast</a></li>
+                                    </ul>
+                                </li>
+                                <li class="menu-item"><a href="../support/giving.html">Support</a>
+                                    <ul class="sub-menu">
+                                        <li class="menu-item"><a href="../support/giving.html">Giving to Stonehaven</a></li>
+                                        <li class="menu-item"><a href="../support/knight-fund.html">Knight Fund</a></li>
+                                        <li class="menu-item"><a href="../support/capital-campaign.html">Capital Campign</a></li>
+                                        <li class="menu-item"><a href="../support/legacy-giving.html">Legacy Giving</a></li>
+                                        <li class="menu-item"><a href="../support/georgia-goal.html">Georgia GOAL</a></li>
+                                        <li class="menu-item"><a href="../support/partner-programs.html">Partner Programs</a></li>
+                                        <li class="menu-item"><a href="../support/corporate-sponsors.html">Corporate Sponsors</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+<!-- End White Mobile Header -->
+
+<!-- Begin Blue Header -->
+
+    <div class="kingster-body-outer-wrapper ">
+        <div class="kingster-body-wrapper clearfix  kingster-with-frame">
+            <div class="kingster-top-bar">
+                <div class="kingster-top-bar-background"></div>
+                <div class="kingster-top-bar-container kingster-container ">
+                    <div class="kingster-top-bar-container-inner clearfix">
+                        <div class="kingster-top-bar-left kingster-item-pdlr"><a href="../about-us/contact.html"><i class="fa fa-envelope-open-o" id="i_fd84_0"></i> frontdesk@stonehavenschool.org</a> <i class="fa fa-phone" id="i_fd84_1"></i> <a href="../about-us/contact.html">(770) 874-8885</a></div>
+                        <div class="kingster-top-bar-right kingster-item-pdlr">
+                            <ul id="kingster-top-bar-menu" class="sf-menu kingster-top-bar-menu kingster-top-bar-right-menu">
+                                <li class="menu-item kingster-normal-menu"><a href="https://stonehaven.getalma.com/" target="new">Alma</a></li>
+                                <li class="menu-item kingster-normal-menu"><a href="../about-us/calendar.html">Calendar</a></li>
+                                <li class="menu-item kingster-normal-menu"><a href="https://stonehavenschool.square.site/" target="new">Store</a></li>
+                                <li class="menu-item kingster-normal-menu"><a href="../support/giving.html">Support Us</a></li>
+                            </ul>
+                            <div class="kingster-top-bar-right-social"></div><a class="kingster-top-bar-right-button" href="../admissions/tours-openhouses.html">Visit</a></div>
+                    </div>
+                </div>
+            </div>
+
+<!-- End Blue Header -->
+
+<!-- Begin White Header -->
+
+            <header class="kingster-header-wrap kingster-header-style-plain  kingster-style-menu-right kingster-sticky-navigation kingster-style-fixed" data-navigation-offset="75px">
+                <div class="kingster-header-background"></div>
+                <div class="kingster-header-container  kingster-container">
+                    <div class="kingster-header-container-inner clearfix">
+                        <div class="kingster-logo  kingster-item-pdlr">
+                            <div class="kingster-logo-inner">
+                                <a class="" href="../index.html"><img src="../images/logo.png" alt="" /></a>
+                            </div>
+                        </div>
+                        <div class="kingster-navigation kingster-item-pdlr clearfix ">
+                            <div class="kingster-main-menu" id="kingster-main-menu">
+                                <ul id="menu-main-navigation-1" class="sf-menu">
+                                    <li class="menu-item menu-item-home menu-item-has-children kingster-normal-menu"><a href="../index.html" class="sf-with-ul-pre">Home</a></li>
+                                    <li class="menu-item menu-item-has-children kingster-normal-menu"><a href="../about-us/school-history.html" class="sf-with-ul-pre">About Us</a>
+                                        <ul class="sub-menu">
+                                            <li class="menu-item" data-size="60"><a href="../about-us/welcome.html">Welcome</a></li>
+                                            <li class="menu-item" data-size="60"><a href="../about-us/school-history.html">History</a></li>
+                                            <li class="menu-item" data-size="60"><a href="../about-us/profile.html">Profile</a></li>
+						<li class="menu-item menu-item-has-children" data-size="60"><a href="../about-us/mission.html" class="sf-with-ul-pre">Mission & Vision</a>
+                                                <ul class="sub-menu">
+                                                    <li class="menu-item"><a href="../about-us/mission.html">Mission & Vision Statements</a></li>
+                                                    <li class="menu-item"><a href="../about-us/faith.html">Statement of Faith</a></li>
+                                                    <li class="menu-item"><a href="../about-us/strategicplan.html">Strategic Plan</a></li>
+                                                </ul>
+						</li>
+                                            </li>
+                                            <li class="menu-item menu-item-has-children" data-size="60"><a href="../about-us/faculty.html" class="sf-with-ul-pre">Our People</a>
+                                                <ul class="sub-menu">
+                                                    <li class="menu-item"><a href="../about-us/faculty.html">Faculty & Staff</a></li>
+                                                    <li class="menu-item"><a href="../about-us/administration.html">Administration</a></li>
+                                                    <li class="menu-item"><a href="../about-us/board.html">Board of Trustees</a></li>
+                                                </ul>
+                                            </li>
+                                            <li class="menu-item" data-size="60"><a href="../about-us/contact.html">Contact</a></li>
+                                            <li class="menu-item" data-size="60"><a href="../about-us/employment.html">Employment</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="menu-item menu-item-has-children kingster-mega-menu"><a href="../academics/lower-philosophy.html" class="sf-with-ul-pre">Academics</a>
+                                        <div class="sf-mega sf-mega-full megaimg">
+                                            <ul class="sub-menu">
+                                                <li class="menu-item menu-item-has-children" data-size="15"><a href="../academics/classical.html" class="sf-with-ul-pre">General</a>
+                                                    <ul class="sub-menu">
+                                                        <li class="menu-item"><a href="../academics/classical.html">Classical Trivium</a></li>
+                                                        <li class="menu-item"><a href="../academics/scope-sequence.html">K-12 Scope & Sequence</a></li>
+                                                        <li class="menu-item"><a href="../academics/fine-arts.html">Fine Arts</a></li>
+                                                    </ul>
+                                                </li>
+                                                <li class="menu-item menu-item-has-children" data-size="15"><a href="../academics/lower-philosophy.html" class="sf-with-ul-pre">Lower School</a>
+                                                    <ul class="sub-menu">
+                                                        <li class="menu-item"><a href="../academics/lower-philosophy.html">Grammar Philosophy</a></li>
+                                                        <li class="menu-item"><a href="../academics/lower-curriculum.html">Curriculum</a></li>
+                                                        <li class="menu-item"><a href="../about-us/faculty.html#lower">Faculty & Staff</a></li>
+                                                    </ul>
+                                                </li>
+                                                <li class="menu-item menu-item-has-children" data-size="15"><a href="../academics/upper-philosophy.html" class="sf-with-ul-pre">Upper School</a>
+                                                    <ul class="sub-menu">
+                                                        <li class="menu-item"><a href="../academics/upper-philosophy.html">Logic & Rhetoric Philosophy</a></li>
+                                                        <li class="menu-item"><a href="../academics/upper-curriculum.html">Curriculum</a></li>
+                                                        <li class="menu-item"><a href="../about-us/faculty.html#upper">Faculty & Staff</a></li>
+                                                    </ul>
+                                                </li>
+                                                <li class="menu-item" data-size="15">
+                                                    <div class="kingster-mega-menu-section-content"><img src="../upload/mega-menu-logo.png" id="img_fd84_0" alt="" /> <span id="span_fd84_0">Cultivating truth, goodness, and beauty grounded in the Christian worldview</span></div>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </li>
+                                    <li class="menu-item menu-item-has-children kingster-normal-menu"><a href="../admissions/admissions-process.html" class="sf-with-ul-pre">Admissions</a>
+                                        <ul class="sub-menu">
+                                            <li class="menu-item" data-size="60"><a href="../admissions/admissions-process.html">Admissions Process</a></li>
+                                            <li class="menu-item" data-size="60"><a href="../admissions/affordability.html">Affordability</a></li>
+                                            <li class="menu-item" data-size="60"><a href="../admissions/tours-openhouses.html">Tours & Open Houses</a></li>
+                                            <li class="menu-item" data-size="60"><a href="https://stonehaven.almastart.com/">Begin Application</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="menu-item menu-item-has-children kingster-normal-menu"><a href="../student-life/life.html" class="sf-with-ul-pre">Student Life</a>
+                                        <ul class="sub-menu">
+                                            <li class="menu-item" data-size="60"><a href="../student-life/life.html">Student Life</a></li>
+                                            <li class="menu-item" data-size="60"><a href="../student-life/athletics.html">Athletics</a></li>
+                                            <li class="menu-item" data-size="60"><a href="../student-life/enrichment.html">Enrichment Programs</a></li>
+                                            <li class="menu-item" data-size="60"><a href="../student-life/pathfinders.html">Pathfinders</a></li>
+                                            <li class="menu-item" data-size="60"><a href="../student-life/house.html">House</a></li>
+                                            <li class="menu-item" data-size="60"><a href="../student-life/after-school.html">After School Program</a></li>
+                                            <li class="menu-item" data-size="60"><a href="../student-life/video-library.html">Video Library</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="menu-item current-menu-item menu-item-has-children kingster-normal-menu"><a href="../parents/partnership.html">Parents</a>
+					<ul class="sub-menu">
+                                            <li class="menu-item" data-size="60"><a href="../parents/partnership.html">Parent Partnership</a></li>
+                                            <li class="menu-item" data-size="60"><a href="../parents/resources.html">Parent Resources</a></li>
+                                            <li class="menu-item" data-size="60"><a href="../parents/cultivate.html">Cultivate</a></li>
+                                            <li class="menu-item" data-size="60"><a href="../parents/bloghaven.html">The Bloghaven</a></li>
+                                            <li class="menu-item" data-size="60"><a href="../parents/alma.html">Alma</a></li>
+                                            <li class="menu-item" data-size="60"><a href="../parents/r2g2podcast.html">R2G2 Podcast</a></li>
+                                        </ul>
+				    </li>
+                                    <li class="menu-item menu-item-has-children kingster-normal-menu"><a href="../support/giving.html">Support</a>
+					<ul class="sub-menu">
+                                            <li class="menu-item" data-size="60"><a href="../support/giving.html">Giving to Stonehaven</a></li>
+                                            <li class="menu-item" data-size="60"><a href="../support/knight-fund.html">Knight Fund</a></li>
+                                            <li class="menu-item" data-size="60"><a href="../support/capital-campaign.html">Capital Campaign</a></li>
+                                            <li class="menu-item" data-size="60"><a href="../support/legacy-giving.html">Legacy Giving</a></li>
+                                            <li class="menu-item" data-size="60"><a href="../support/georgia-goal.html">Georgia GOAL</a></li>
+                                            <li class="menu-item" data-size="60"><a href="../support/partner-programs.html">Partner Programs</a></li>
+                                            <li class="menu-item" data-size="60"><a href="../support/corporate-sponsors.html">Corporate Sponsors</a></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                                <div class="kingster-navigation-slide-bar" id="kingster-navigation-slide-bar"></div>
+                            </div>
+                            <div class="kingster-main-menu-right-wrap clearfix ">
+				<div class="kingster-main-menu-search" id="kingster-top-search"><img src="../upload/bg-search-bar.jpg" style="opacity: 0.0" alt="" /></div>
+                                <div class="kingster-top-search-wrap">
+                                    <div class="kingster-top-search-close"></div>
+                                    <div class="kingster-top-search-row">
+                                        <div class="kingster-top-search-cell">
+                                            <form role="search" method="get" class="search-form" action="#">
+                                                <input type="text" class="search-field kingster-title-font" placeholder="Search..." value="" name="s">
+                                                <div class="kingster-top-search-submit"><i class="fa fa-search"></i></div>
+                                                <input type="submit" class="search-submit" value="Search">
+                                                <div class="kingster-top-search-close"><i class="icon_close"></i></div>
+                                            </form>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </header>
+
+<!-- End White Header -->
+
+	    <div class="kingster-page-title-wrap  kingster-style-medium kingster-left-align" style="background-image: url(../upload/blogmain.jpg) ;">
+                <div class="kingster-header-transparent-substitute"></div>
+                <div class="kingster-page-title-overlay"></div>
+                <div class="kingster-page-title-container kingster-container">
+                    <div class="kingster-page-title-content kingster-item-pdlr">
+                        <div class="kingster-page-caption" style="opacity: 0.0">a</div>
+                        <h1 class="kingster-page-title" style="opacity: 0.0">a</h1></div>
+                </div>
+            </div>
+            <div class="kingster-page-wrapper" id="kingster-page-wrapper">
+                <div class="gdlr-core-page-builder-body">
+                    <div class="gdlr-core-pbf-sidebar-wrapper ">
+                        <div class="gdlr-core-pbf-sidebar-container gdlr-core-line-height-0 clearfix gdlr-core-js gdlr-core-container">
+                            <div class="gdlr-core-pbf-sidebar-content  gdlr-core-column-40 gdlr-core-pbf-sidebar-padding gdlr-core-line-height gdlr-core-column-extend-left" style="padding: 60px 10px 30px 0px;">
+                                <div class="gdlr-core-pbf-background-wrap" style="background-color: #f7f7f7 ;"></div>
+                                <div class="gdlr-core-pbf-sidebar-content-inner">
+                                    <div class="gdlr-core-pbf-element">
+                                        <div class="gdlr-core-blog-item gdlr-core-item-pdb clearfix  gdlr-core-style-blog-full-with-frame" style="padding-bottom: 40px ;">
+                                            <div class="gdlr-core-blog-item-holder gdlr-core-js-2 clearfix" data-layout="fitrows">
+
+						<div class="gdlr-core-item-list gdlr-core-blog-full  gdlr-core-item-mglr gdlr-core-style-left">
+                                                    <div class="gdlr-core-blog-thumbnail gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
+                                                        <img src="../upload/south-pole.jpg" width="900" height="500"  alt="" />
+                                                    </div>
+                                                    <div class="gdlr-core-blog-full-frame gdlr-core-skin-e-background">
+                                                        <div class="gdlr-core-blog-full-head clearfix">
+                                                            <div class="gdlr-core-blog-full-head-right">
+                                                                <h3 class="gdlr-core-blog-title gdlr-core-skin-title" style="font-size: 33px ;font-weight: 700 ;letter-spacing: 0px ;">Fanatic Discipline</h3>
+                                                                <div class="gdlr-core-blog-info-wrapper gdlr-core-skin-divider"><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date">October 12, 2020</span><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-author"><span class="gdlr-core-head" >By</span>Brett Edwards</span></span>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="gdlr-core-blog-content"><p>In October of 1911, Norwegian explorer Roald Amundsen would lead the first successful expedition to reach the South Pole. A second British expedition, led by explorer Robert Falcon Scott, would follow three weeks later with the same objective. Although both expeditions were filled with men of courage, vision, and ambition, only Amundsen and his team would return alive. In his book <i>Great by Choice</i>, Collins argues that the Norwegian explorer exhibited all the right behaviors, in contrast to Scott, that would help his team succeed in an environment of uncertainty and chaos. In September, I decided to share some insights from Collins book that we might implement as a school community as we seek to navigate a season of uncertainty and chaos. Collins says, "Amundsen and Scott achieved dramatically different outcomes not because they faced dramatically different circumstances... They had divergent outcomes principally because they displayed very different behaviors." Many factors contributed to the demise of the British expedition but one of the most fateful was arguably Scott's gamble on using untested motor-sledge engines. The failure of the engines only 50 miles into the trip forced the group to man-haul 740 pounds of supplies for much of the journey. The success of the British expedition was too heavily reliant on a new and untested idea. Amundsen and his team, on the other hand, began their expedition with the tried, true, and tested: four sledges, an abundance of provisions, and fifty two dogs. Amundsen was disciplined enough to not trust their fate to a new idea. As we continue to work through this difficult season, Stonehaven need not reinvent the educational wheel. Collins argues that fanatic discipline is one of the three character traits necessary for times like these. He defines this form of discipline as, "Consistency of actionーconsistency with values, consistency with long-term goals, consistency with performance standards, consistency of method, consistency over time... True discipline requires the independence of mind to reject pressures to conform in ways incompatible with values, performance standards, and long-term aspirations."</p> 
+							    <div class="clear"></div><a class="gdlr-core-excerpt-read-more gdlr-core-button gdlr-core-rectangle" href="https://www.jimcollins.com/article_topics/articles/how-to-manage-through-chaos.html">Article Link</a></div>
+                                                    </div>
+                                                </div>
+						<div class="gdlr-core-item-list gdlr-core-blog-full  gdlr-core-item-mglr gdlr-core-style-left">
+                                                    <div class="gdlr-core-blog-thumbnail gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
+                                                        <img src="../upload/child-praying.jpg" width="900" height="500"  alt="" />
+                                                    </div>
+                                                    <div class="gdlr-core-blog-full-frame gdlr-core-skin-e-background">
+                                                        <div class="gdlr-core-blog-full-head clearfix">
+                                                            <div class="gdlr-core-blog-full-head-right">
+                                                                <h3 class="gdlr-core-blog-title gdlr-core-skin-title" style="font-size: 33px ;font-weight: 700 ;letter-spacing: 0px ;">The Dogma is the Drama</h3>
+                                                                <div class="gdlr-core-blog-info-wrapper gdlr-core-skin-divider"><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date">October 5, 2020</span><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-author"><span class="gdlr-core-head" >By</span>Brett Edwards</span></span>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="gdlr-core-blog-content"><p>In my younger years, every night before bed, my mother guided my sister and I in the classic prayer, "Now I Lay me Down to Sleep." I often took this ten-second ritual for granted and recited it without conviction or thought. However, I believe the routine was effective in reminding me where my soul ultimately resided... "I pray the Lord my soul to keep." It taught me a particular dogma of our Christian faith that we are not our own, we were bought with a price, and our body and soul belong to our Savior Jesus Christ (1 Corinthians 6:19-20). In our age of science, the teaching of religious dogma has been branded as an enemy to not only rational thinking but also goodness itself. Atheist Sam Harris argues that, "the maintenance of religious dogma always comes at the expense of science." Philosopher Immanuel Kant believed that, "The death of dogma is the birth of reality." It is fair to say that modernity has placed dogma in the proverbial dog house. It is worthwhile to wrestle with these accusations as a Stonehaven education unapologetically teaches our children Christian dogma. Dogma is defined as a "a principle or set of principles laid down by an authority as incontrovertibly true." The school's statement of faith is not taught in our classrooms as one of many options from the mantle of religious ideas. Our catechism is taught to our children as dogma, principles laid down by the authority of the Christian church, and inextricably linked to their Christian faith. Christian morality, ethics, dogma, or even the existence of our souls can't be observed under a microscope and verified in a science laboratory. As hard as one might try, no one is able to avoid adherence to "religious" dogma whether it be Christian dogma or secular humanistic dogma. G.K. Chesterton says, "In truth, there are only two kinds of people; those who accept dogma and know it, and those who accept dogma and don't know it." The question is not whether or not we will teach dogma to our children but rather will we teach them the true dogma that provides meaning, value, and purpose to their existence.</p> 
+								<p>Even in the middle of the 20th century, Sayers was seeing many in the Christian church question the need for the certainty implied by the dogmatic doctrines of historic Christianity. Believing the church was fearful of offending people with the unvarnished truth of the gospel, Sayers said, "We do him singularly little honor by watering down his personality till it could not offend a fly. Surely it is not the business of the Church to adapt Christ to men, but to adapt men to Christ." The goal of a Stonehaven education is to adapt our children to Christ and teach them the full truth of the gospel. When we remove the offense of the gospel, we are left with no gospel at all (1 John 15:18-21). It is not rare to find a Christian teacher that carefully avoids any discussion, doctrine, or idea in an effort to avoid offense. We find one of many examples of this when some years ago a group of Christians questioned the need for the line "the wrath of God was satisfied" in the hymn <i>In Christ Alone</i>. They proposed replacing this unnecessary phrase with "the love of God was magnified." It is not hard to follow the logic. "Why can't we focus on the more comforting ideas of God?" The reason is that the love of God and the holiness of God can't coexist unless his wrath has been satisfied. Our children need a robust Christian faith that speaks all the truth of God's word: his love, his justice, his mercy, his wrath, his compassion, his righteous anger, and ultimately his holiness. They need these truths preached in their home, in their church, and in their school. Sayers says, "It is the dogma that is the dramaーnot beautiful phrases nor comforting sentiments, nor vague aspirations to lovingkindness and uplift, nor the promise of something nice after deathーbut the terrifying assertion that the same God who made the world lived in the world and passed through the grave and gate of death. Show that to the heathen, and they may not believe it; but at least they may realize that here is something that a man might be glad to believe."</p>
+							    <div class="clear"></div><a class="gdlr-core-excerpt-read-more gdlr-core-button gdlr-core-rectangle" href="https://renovare.org/articles/the-dogma-is-the-drama">Article Link</a></div>
+                                                    </div>
+                                                </div>
+						<div class="gdlr-core-item-list gdlr-core-blog-full  gdlr-core-item-mglr gdlr-core-style-left">
+                                                    <div class="gdlr-core-blog-thumbnail gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
+                                                        <img src="../upload/success-image.jpg" width="900" height="500"  alt="" />
+                                                    </div>
+                                                    <div class="gdlr-core-blog-full-frame gdlr-core-skin-e-background">
+                                                        <div class="gdlr-core-blog-full-head clearfix">
+                                                            <div class="gdlr-core-blog-full-head-right">
+                                                                <h3 class="gdlr-core-blog-title gdlr-core-skin-title" style="font-size: 33px ;font-weight: 700 ;letter-spacing: 0px ;">Ship Without a Compass</h3>
+                                                                <div class="gdlr-core-blog-info-wrapper gdlr-core-skin-divider"><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date">September 21, 2020</span><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-author"><span class="gdlr-core-head" >By</span>Brett Edwards</span></span>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="gdlr-core-blog-content"><p>One of the more popular ideas of modernity is the idea that the silver bullet to the most challenging problems in our world is a good education. The hope and even expectation is that poverty, hatred, and war could be eradicated if all our children had access to high-performing schools. The world defines "good" or "high-performing" as those schools with the highest test scores and strongest college acceptance statistics. Martin Luther King Jr. wrestled earnestly with the ultimate purpose of education. He was confronted with many examples of what society might call a well-educated person but saw first-hand how their education was divided from moral action. In a college newspaper article for Morehouse college, Dr. King illuminates this disconnectedness in a former Georgia governor, "The late Eugene Talmadge, in my opinion, possessed one of the better minds of Georgia, or even America. By all measuring rods, Mr. Talmadge could think critically and intensively; yet he contends that I am an inferior being. Are those the types of men we call educated?" Therefore, Dr. King concluded that an, "Education without morals is like a ship without a compass, merely wandering nowhere." The great thinkers of history have arrived at similar conclusions recognizing the vital role of virtue in education. C.S. Lewis believed an education without values made “man a more clever devil," Theodore Roosevelt argued that an education of the mind alone created "a menace to society" and Aristotle said if you weren’t educating the heart it was "no education at all." Every school affirms the goodness of teaching virtue, character, and values. However, not every school places this as their central aim: as the primary "measuring rod" of success. Dr. King reminds us that, "We must remember that intelligence is not enough. Intelligence plus character–that is the goal of true education. The complete education gives one not only power of concentration, but worthy objectives upon which to concentrate."</p> 
+							    <div class="clear"></div><a class="gdlr-core-excerpt-read-more gdlr-core-button gdlr-core-rectangle" href="https://kinginstitute.stanford.edu/king-papers/documents/purpose-education">Article Link</a></div>
+                                                    </div>
+                                                </div>
+						<div class="gdlr-core-item-list gdlr-core-blog-full  gdlr-core-item-mglr gdlr-core-style-left">
+                                                    <div class="gdlr-core-blog-thumbnail gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
+                                                        <img src="../upload/sully-plane.jpg" width="900" height="500"  alt="" />
+                                                    </div>
+                                                    <div class="gdlr-core-blog-full-frame gdlr-core-skin-e-background">
+                                                        <div class="gdlr-core-blog-full-head clearfix">
+                                                            <div class="gdlr-core-blog-full-head-right">
+                                                                <h3 class="gdlr-core-blog-title gdlr-core-skin-title" style="font-size: 33px ;font-weight: 700 ;letter-spacing: 0px ;">Discipline vs. Boldness</h3>
+                                                                <div class="gdlr-core-blog-info-wrapper gdlr-core-skin-divider"><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date">September 14, 2020</span><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-author"><span class="gdlr-core-head" >By</span>Brett Edwards</span></span>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="gdlr-core-blog-content"><p>"Why do some companies thrive in uncertainty, even chaos, and others do not?" This is the question researcher and author Jim Collins seeks to answer in his book <em>Great by Choice</em>. Do I need to justify why I have chosen to read this book in the year 2020? Collins wrote the book in response to the uncertainty following the events of 9/11. Collins seeks to communicate the DNA of companies that navigate the chaos; "They don't merely react; they create. They don't merely survive; they prevail. They don't merely succeed, they thrive." I will tackle this book one chapter per month and share with you all how the principles in this book apply to our school during a tumultuous year. In the first chapter, Collins tackles five common myths about companies that succeed in difficult times. The first myth is that organizations need bold, risk-seeking visionaries to manage turbulent times. They actually found that the leaders of the companies that thrived through chaos were not able to predict the future. Nor were they risk takers. Collins found that, "They were more disciplined, more empirical, and more paranoid." Disciplined is defined as the ability, "to control the way you behave and to make yourself do things that you believe you should do." It would be difficult to imagine a more chaotic situation than being the pilot of a plane that has lost all engine power after striking a flock of Canadian geese. US Airways Pilot Chesley Sullenberger was confronted with this terrifying dilemma on January 15, 2009 and miraculously glided the plane to a safe landing on the Hudson River. We can certainly recognize the creativity and boldness of Sullenberger’s actions but these would have been of little value without his focused discipline. A discipline formed over many years of intentional training. Sullenberger had spent thirty years flying commercial aircraft, specializing in accident investigations, and instructing flight crews on how to respond to crises in the air. When discussing how he responded he said, "I had to force myself to use my training and force calm on the situation... I think in many ways my entire life up to that moment had been a preparation to handle that particular moment." I would encourage our school community to 'force calm' upon the challenges we currently face and will face in the coming months. Keep calm and discipline on.</p> 
+								<p>The five myths Collins describes in his book are the following: </p>
+								<blockquote><p>Entrenched myth: Successful leaders in a turbulent world are bold, risk-seeking visionaries.<br>Contrary finding: The best leaders we studied did not have a visionary ability to predict the future. They observed what worked, figured out why it worked, and built upon proven foundations. They were not more risk taking, more bold, more visionary, and more creative than the comparisons. They were more disciplined, more empirical, and more paranoid.</p><p>Entrenched myth: Innovation distinguishes 10X companies in a fast-moving, uncertain, and chaotic world. <br>Contrary finding: To our surprise, no. Yes, the 10X cases innovated, a lot. But the evidence does not support the premise that 10X companies will necessarily be more innovative than their successful comparisons; and in some surprise cases, the 10X cases were less innovative. Innovation by itself turns out not to be the trump card we expected; more important is the ability to scale innovation, to blend creativity with discipline.</p><p>Entrenched myth: A threat-filled world favors the speedy; you’re either the quick or the dead.<br>Contrary finding: The idea that leading in a “fast world” always requires “fast decisions” and “fast action” - and that we should embrace an overall ethos of “Fast! Fast! Fast!” -is a good way to get killed. 10X leaders figure out when to go fast, and when not to.</p><p>Entrenched myth: Radical change on the outside requires radical change on the inside.<br>Contrary finding: The 10X cases changed less in reaction to their changing world than the comparison cases. Just because your environment is rocked by dramatic change does not mean that you should inflict radical change upon yourself.</p><p>Entrenched myth: Great enterprises with 10X success have a lot more good luck.<br>Contrary finding: The 10X companies did not generally have more luck than the comparisons. Both sets had luck-lots of luck, both good and bad-in comparable amounts. The critical question is not whether you’ll have luck, but what you do with the luck you get. </p></blockquote>
+								<p><br>I am not going to discuss in detail each of these findings in this blog post. Rather, I look forward to exploring some of these findings in future posts as we look at how organizations thrived during difficult times. For now, the takeaway is to recognize that success during times of uncertainty is not dependent on taking risks, innovation, responding quickly, radical change, and good luck. Let us pray that the Lord blesses us with discipline, patience, consistency, and thoughtful change to navigate the turbulent waves in the path ahead.</p>
+							    <div class="clear"></div><a class="gdlr-core-excerpt-read-more gdlr-core-button gdlr-core-rectangle" href="https://www.inc.com/leigh-buchanan/sully-sullenberger-leadership-lessons.html">Article Link</a></div>
+                                                    </div>
+                                                </div>
+
+						<div class="gdlr-core-item-list gdlr-core-blog-full  gdlr-core-item-mglr gdlr-core-style-left">
+                                                    <div class="gdlr-core-blog-thumbnail gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
+                                                        <img src="../upload/duke-ellington.jpg" width="900" height="500"  alt="" />
+                                                    </div>
+                                                    <div class="gdlr-core-blog-full-frame gdlr-core-skin-e-background">
+                                                        <div class="gdlr-core-blog-full-head clearfix">
+                                                            <div class="gdlr-core-blog-full-head-right">
+                                                                <h3 class="gdlr-core-blog-title gdlr-core-skin-title" style="font-size: 33px ;font-weight: 700 ;letter-spacing: 0px ;">Productive Wandering</h3>
+                                                                <div class="gdlr-core-blog-info-wrapper gdlr-core-skin-divider"><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date">September 8, 2020</span><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-author"><span class="gdlr-core-head" >By</span>Brett Edwards</span></span>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="gdlr-core-blog-content"><p>Philosopher Malcolm Gladwell has become famous for popularizing what is called the 10,000 hours rule. In his book <i>Outliers</i> he says, "In fact, researchers have settled on what they believe is the magic number for true expertise: ten thousand hours." He argues that to be great at anything, it requires 10,000 hours of deliberate practice in one particular discipline. The poster child for this idea is golfer Tiger Woods. Introduced to the game of golf at a very young age, he was already gaining recognition on national television shows before he turned three. Undoubtedly, Woods reached the "magic number" of 10,000 hours faster than most of his golfing peers. Although specialization at a young age certainly helped Woods, there is a significant amount of evidence showing that specializing in a certain skill at a young age is often not the best path towards future success. In his TED talk, David Epstein makes a convincing case that a "sampling period" where you try new things and focus on building a range of skills is more valuable than honing one particular skill. Epstein summarizes saying, "breadth of training predicts breadth of transfer. That is, the more contexts in which something is learned, the more the learner creates abstract models, and the less they rely on any particular example." This is at the core of a classical liberal arts education: the idea that our children are best prepared for their future world when they have been exposed to a breadth of learning encouraging them to integrate all of life. Tennis star Roger Federer, musician Duke Ellington, mathematician Maryam Mirzakhani, and Nintendo game designer Gunpei Yokoi are all examples of highly successful people that indulged in a sampling period before finding their area of expertise. Ellington shunned music lessons as a kid to focus on baseball, painting, and drawing. Mirzakhani, the only woman to win the Fields medal for mathematics, dreamed as a young girl of being a novelist. Was their "wandering" a waste of precious time or might it have been exactly what they needed to nurture their particular gifts? In addition, researchers have found that nobel prize winning laureates were twenty-two times more likely to have a hobby. Could it be that fishing, sewing, and gardening will help our children become better teachers, doctors, and engineers? At the very least, their lives will be more enjoyable with their exposure to the wonderful breadth of God's world.</p> 
+							    <div class="clear"></div><a class="gdlr-core-excerpt-read-more gdlr-core-button gdlr-core-rectangle" href="https://www.ted.com/talks/david_epstein_why_specializing_early_doesn_t_always_mean_career_success?rss=172BB350-0207">TED Talk</a>  <a class="gdlr-core-excerpt-read-more gdlr-core-button gdlr-core-rectangle" href="https://medium.com/swlh/lessons-from-range-by-david-epstein-e2cac2032387">Article Link</a></div>
+                                                    </div>
+                                                </div>
+						<div class="gdlr-core-item-list gdlr-core-blog-full  gdlr-core-item-mglr gdlr-core-style-left">
+                                                    <div class="gdlr-core-blog-thumbnail gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
+                                                        <img src="../upload/stained-glass-b.jpg" width="900" height="500"  alt="" />
+                                                    </div>
+                                                    <div class="gdlr-core-blog-full-frame gdlr-core-skin-e-background">
+                                                        <div class="gdlr-core-blog-full-head clearfix">
+                                                            <div class="gdlr-core-blog-full-head-right">
+                                                                <h3 class="gdlr-core-blog-title gdlr-core-skin-title" style="font-size: 33px ;font-weight: 700 ;letter-spacing: 0px ;">Quiet and Easy</h3>
+                                                                <div class="gdlr-core-blog-info-wrapper gdlr-core-skin-divider"><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date">August 31, 2020</span><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-author"><span class="gdlr-core-head" >By</span>Brett Edwards</span></span>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="gdlr-core-blog-content"><p>On a whim, I chose to take a stained glass elective class during my junior year of high school. I can imagine that the 17-year-old in me was simply looking for the easiest, most fun option. Unfortunately, it is unlikely I was taking the class for the right reasons. For our final assignment, we were essentially allowed to choose any project we wanted within a broad criteria of expectations. My mother had requested I make a stained glass chandelier to live above our dining room table. After a month of focused work, the crowning achievement of my stained glass experience was finished and later installed in our dining room. After twenty plus years, when I visit my childhood home, I can't help but smile when I see the chandelier hanging in the dining room. The craftsmanship is average at best and many visitors to our home have possibly noticed the many imperfections. Imperfections my mother refuses to acknowledge. But... there is a unique satisfaction in creating something with your own hands. One of the programs we are so excited to launch this school year is our manual arts program. Woodworking with Mr. Cown and Robotics with Mr. Rickman are the first two classes of the program that we launched this fall. Like myself, many of you remember manual arts from your younger years as Shop Class. A classical school is often known for the demands and expectations we place on thinking, reasoning, and the expression of esoteric ideas. However, Stonehaven believes that training our kids to work with their hands, although neglected in our knowledge age, is a valuable tool for their intellectual growth. To find a convincing argument for this idea, one can read Matthew Crawford's fine book, <i>Shop Class as Soulcraft</i>. He says, "The satisfactions of manifesting oneself concretely in the world through manual competence have been known to make a man quiet and easy. They seem to relieve him of the felt need to offer chattering interpretations of himself to vindicate his worth, He can simply point: the building stands, the car now runs, the lights are on."</p> 
+<p><img src="../upload/bird-houses.jpg" width="900" height=""  alt="Bird Houses" /><br><i>Woodworking bird houses</i></p>
+<p>Crawford, a philosopher mechanic, has experienced work both in a Washington D.C. "think tank' and in the greasy environs of a motorcycle shop. One important aim in his book is to dismiss the typical stereotype that the manual arts might require a muscled arm but don't necessitate a bright mind. Crawford says, "craft knowledge has entailed knowledge of the 'ways' of one's materials-that is, knowledge of their nature, acquired through disciplined perception and a systematic approach to problems." Those engaged in manual arts are consistently challenged to solve problems that require creativity, patience, and perseverance. The best craftsmen are those that find elegant solutions to the tricky problems of their trade. A skilled electrician can recognize the brilliance of another electrician by looking at their work, "the sight of a gang of conduit entering a large panel... bent into nestled, flowing curves, with varying offsets, that somehow all terminated in the same plane." An experienced electrician sees a special form of beauty in such work.</p> 
+<p>In the last thirty years, the idea of Shop Class has become a thing of the past for most schools. Some might even believe, "that it is irresponsible to educate the young for the trades, which are somehow identified as the jobs of the past." Stonehaven is going to swim against the current and introduce our children to the beauty of woodworking, engines, cooking, farming, gardening, pottery, sewing, and maybe even stained glass. A rich educational experience using their hands (at school and at home) will not be a nice-to-have for our children but rather a must-have. These experiences will train them to use both their minds and their hands and in so doing will form their very souls.</p>  
+							    <div class="clear"></div><a class="gdlr-core-excerpt-read-more gdlr-core-button gdlr-core-rectangle" href="https://www.thenewatlantis.com/publications/shop-class-as-soulcraft">Article by Crawford</a></div>
+                                                    </div>
+                                                </div>
+						<div class="gdlr-core-item-list gdlr-core-blog-full  gdlr-core-item-mglr gdlr-core-style-left">
+                                                    <div class="gdlr-core-blog-thumbnail gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
+                                                        <img src="../upload/lydia-cartoon-b.jpg" width="900" height="500"  alt="" />
+                                                    </div>
+                                                    <div class="gdlr-core-blog-full-frame gdlr-core-skin-e-background">
+                                                        <div class="gdlr-core-blog-full-head clearfix">
+                                                            <div class="gdlr-core-blog-full-head-right">
+                                                                <h3 class="gdlr-core-blog-title gdlr-core-skin-title" style="font-size: 33px ;font-weight: 700 ;letter-spacing: 0px ;">Specks and Logs</h3>
+                                                                <div class="gdlr-core-blog-info-wrapper gdlr-core-skin-divider"><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date">August 24, 2020</span><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-author"><span class="gdlr-core-head" >By</span>Brett Edwards</span></span>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="gdlr-core-blog-content">In a sermon Sunday morning, my children were challenged to draw a picture of the imagery depicted in Matthew 7:3-4, "Why do you see the speck that is in your brother's eye, but do not notice the log that is in your own eye? Or how can you say to your brother, 'Let me take the speck out of your eye,' when there is the log in your own eye?" Possibly influenced by her recent devouring of the comic strip Calvin and Hobbes, my oldest daughter created the delightful cartoon sequence in the picture above. These verses, the sermon, and my daughter's cartoon reminded me of the irrational and destructive nature of pride. It was also a helpful reminder that a central aim for classical Christian education is to nurture humility and selflessness into the fiber of our children's souls. When our children reach the rhetoric stage of learning, we seek to train them in the art of persuasion. At the heart of persuasion is how we are perceived and understood by others. If our children are perceived as arrogant and prideful, the validity of their logical arguments will be of little value. As we train them in the valuable art of persuasion, it is essential that they understand the ultimate goal of rhetoric. We want our children to view their education―the logic, the knowledge, the brilliance, the rhetoric―as merely a tool towards loving others. Not as a weapon to score points or win an intellectual battle. In <i>Mere Christianity</i>, C.S. Lewis proposes the starting point of humility, "If anyone would like to acquire humility, I can, I think, tell him the first step. The first step is to realise that one is proud. And a biggish step, too. At least, nothing whatever can be done before it. If you think you are not conceited, it means you are very conceited indeed." In other words, the first step is to realize you have a tree sticking out of your head. The sooner our children can recognize that tree, the better prepared they are to live and love in this world. 
+							    <div class="clear"></div><a class="gdlr-core-excerpt-read-more gdlr-core-button gdlr-core-rectangle" href="https://www.fellowshipofthemartyrs.com/articles/60-spiritual-tuneup/191-mere-christianity-chapter-8-qthe-great-sinq-cs-lewis-">The Great Sin by Lewis</a></div>
+                                                    </div>
+                                                </div>
+						<div class="gdlr-core-item-list gdlr-core-blog-full  gdlr-core-item-mglr gdlr-core-style-left">
+                                                    <div class="gdlr-core-blog-thumbnail gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
+                                                        <img src="../upload/duckworth-grit.jpg" width="900" height="500"  alt="" />
+                                                    </div>
+                                                    <div class="gdlr-core-blog-full-frame gdlr-core-skin-e-background">
+                                                        <div class="gdlr-core-blog-full-head clearfix">
+                                                            <div class="gdlr-core-blog-full-head-right">
+                                                                <h3 class="gdlr-core-blog-title gdlr-core-skin-title" style="font-size: 33px ;font-weight: 700 ;letter-spacing: 0px ;">The Character of Success</h3>
+                                                                <div class="gdlr-core-blog-info-wrapper gdlr-core-skin-divider"><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date">August 17, 2020</span><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-author"><span class="gdlr-core-head" >By</span>Brett Edwards</span></span>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="gdlr-core-blog-content">Professor and Psychologist Angela Lee Duckworth has conducted significant research asking the question "Who is successful and why?" She studied which cadets at Westpoint Military Academy were able to persevere in their military training? Which children would advance the furthest at the national Spelling Bee? Which teachers in the nation's most challenging classrooms would survive the school year? She found that one characteristic emerged as the most significant indicator of success. It wasn't IQ, social intelligence, or good looks. It was the idea of grit; defined as "courage and resolve; strength of character." An appropriate use for the would would be, "Teachers at Stonehaven exhibited incredible grit during the 2020-21 school year." It is the determined will to persist through difficulties to solve a problem or find an answer. Although Duckworth's research is compelling, it is by no means original. The medieval world learned this long before Duckworth but called it fortitude: "courage in pain or adversity." So highly regarded, fortitude was one of the four cardinal virtues of the classical world along with prudence, justice, and temperance. This means we need to think deeply about how we are cultivating grit and fortitude in our children. Are we providing them an example for what it looks like to persevere through difficult times? How are we challenging our children to resist the urge to quit when a task becomes difficult? There is a natural temptation among parents and teachers to make a task easier for our children by giving them the answer or removing the obstacle in their path. Education is not about making learning easy but rather training a child to persist when learning is difficult. One of my favorite C.S. Lewis quotes, "Very often what God first helps us towards is not the virtue itself but just this power of always trying again."<br><br>
+							    <p><iframe width="560" height="315" src="https://www.youtube.com/embed/H14bBuluwB8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p> 
+                                                            <div class="clear"></div><a class="gdlr-core-excerpt-read-more gdlr-core-button gdlr-core-rectangle" href="https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance?language=en">TED Talk</a></div>
+                                                    </div>
+                                                </div>
+						<div class="gdlr-core-item-list gdlr-core-blog-full  gdlr-core-item-mglr gdlr-core-style-left">
+                                                    <div class="gdlr-core-blog-thumbnail gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
+                                                        <img src="../upload/julie-andrews.jpg" width="900" height="500"  alt="" />
+                                                    </div>
+                                                    <div class="gdlr-core-blog-full-frame gdlr-core-skin-e-background">
+                                                        <div class="gdlr-core-blog-full-head clearfix">
+                                                            <div class="gdlr-core-blog-full-head-right">
+                                                                <h3 class="gdlr-core-blog-title gdlr-core-skin-title" style="font-size: 33px ;font-weight: 700 ;letter-spacing: 0px ;">A Spoonful of Sugar</h3>
+                                                                <div class="gdlr-core-blog-info-wrapper gdlr-core-skin-divider"><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date">August 10, 2020</span><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-author"><span class="gdlr-core-head" >By</span>Brett Edwards</span></span>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="gdlr-core-blog-content">One of our Stonehaven fathers asked his son after the first day of school, "Was it all worth it? Wearing the buff, the extra precautions, and all the rest?" The child's response, "Absolutely." What a blessing to be back in school with our children even with the inconveniences placed upon us by the threat of COVID. Theodore Roosevelt reminds us that, "Nothing in the world is worth having or doing unless it means effort, pain, difficulty... I have never in my life envied a human being who led an easy life. I have envied a great many people who led difficult lives and led them well." One of the lies that we are prone to believe is that we might one day graduate from our season of discomfort and struggle to an oasis of ease and harmony. The promise of the Christian life is not that it will be easy... but it will be good. Jesus tells us in John 16:33, "I have said these things to you, that in me you may have peace. In the world you will have tribulation. But take heart; I have overcome the world." The good life is often a hard life. Last week, a precocious third grade girl mentioned how much she enjoyed the song <i>A Spoonful of Sugar</i> from the movie Mary Poppins. After confirming that she was referring to the superior 1964 version, I couldn't help but think it was a delightfully appropriate thought for our times. The song eloquently says, "A robin feathering his nest, Has very little time to rest, While gathering his bits of twine and twig, Though quite intent in his pursuit, He has a merry tune to toot, He knows a song will move the job along - for, A spoonful of sugar helps the medicine go down." What is the spoonful of sugar you can add to help the medicine of our inconveniences go down? Is there a merry tune you can toot? Mrs. Keesee has found just such a tune to make a game of buff wearing. Mrs. Barbulescu has been "buzzing to and fro" to help her blended learning students feel like a part of the class. I am grateful for the impressive amount of work all of our teachers and staff have done to get this school year started. Stonehaven, we are going to need lots of sugar this year, please find ways to help the medicine go down "in a most delightful way." 
+                                                            <div class="clear"></div><a class="gdlr-core-excerpt-read-more gdlr-core-button gdlr-core-rectangle" href="https://tonyevans.org/a-spoonful-of-sugar/">Article Link</a></div>
+                                                    </div>
+                                                </div>
+                                                <div class="gdlr-core-item-list gdlr-core-blog-full  gdlr-core-item-mglr gdlr-core-style-left">
+                                                    <div class="gdlr-core-blog-thumbnail gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
+                                                        <img src="../upload/the-wardrobe.jpg" width="900" height="500"  alt="" />
+                                                    </div>
+                                                    <div class="gdlr-core-blog-full-frame gdlr-core-skin-e-background">
+                                                        <div class="gdlr-core-blog-full-head clearfix">
+                                                            <div class="gdlr-core-blog-full-head-right">
+                                                                <h3 class="gdlr-core-blog-title gdlr-core-skin-title" style="font-size: 33px ;font-weight: 700 ;letter-spacing: 0px ;">Refuge from Burden</h3>
+                                                                <div class="gdlr-core-blog-info-wrapper gdlr-core-skin-divider"><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date">August 3, 2020</span><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-author"><span class="gdlr-core-head" >By</span>Brett Edwards</span></span>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="gdlr-core-blog-content">The definition of refuge is "a condition of being safe or sheltered from pursuit, danger, or trouble." In <i>The Lion the Witch and the Wardrobe</i>, the four Pevensie children are forced to evacuate London to escape the Blitz. They seek refuge in a large house in the English countryside. In this beautiful setting, Peter, Susan, Edmund and Lucy begin an amazing adventure into the magical world of Narnia. Even though danger lurks behind the wardrobe, the children are provided a necessary respite from the anxiety and dangers forced upon them by the war. As we return to school, either in person or through our blended learning program, my prayer is that Stonehaven can provide a similar refuge for our children. A place where their spirits, imaginations, and hearts can run wild. As Lewis says, "They open a door and enter a world." What a blessing parents can give their children by returning to the wonderful adventure of school. Some of their typical freedoms will be restricted but so much of what makes a Stonehaven education special will be through the wardrobe to each of our classrooms. Even through the virtual Zoom wardrobe! The last six months have been heavy for our community, our country, and our world. With our continued efforts against COVID, the challenges to achieve racial unity, and the coming election, the heaviness will certainly continue. Let us be careful to place these burdens too heavily upon the shoulders of our children. Adults in every age have carried such burdens that at times felt insurmountable. From world wars to pandemics, God has remained faithful to his people. "All shall be done," says Aslan, "but it may be harder than you think." This is our fight and may we be bold to confront the fallen nature of this world with the truth of the gospel. During this fight, let us provide a refuge where the souls of our children may thrive so that they may be ready to fight for the good of the world when God has called them to the front lines.
+                                                            <div class="clear"></div><a class="gdlr-core-excerpt-read-more gdlr-core-button gdlr-core-rectangle" href="https://www.desiringgod.org/articles/how-to-be-a-refuge-for-your-children">Article Link</a></div>
+                                                    </div>
+                                                </div>
+                                            </div>
+					    <div class="gdlr-core-pagination gdlr-core-style-round gdlr-core-left-align gdlr-core-item-pdlr"><a class="page-numbers current" href="bloghaven.html">1</a> <span aria-current="page" class="page-numbers current">2</span> <a class="page-numbers" href="bloghaven-1.html">3</a><a class="next page-numbers" href="bloghaven-1.html"></a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="gdlr-core-pbf-sidebar-right gdlr-core-column-extend-right  kingster-sidebar-area gdlr-core-column-20 gdlr-core-pbf-sidebar-padding  gdlr-core-line-height">
+                                <div class="gdlr-core-pbf-background-wrap" style="background-color: #f7f7f7 ;"></div>
+                                <div class="gdlr-core-sidebar-item gdlr-core-item-pdlr">
+                                    <div id="text-5" class="widget widget_text kingster-widget">
+                                        <h3 class="kingster-widget-title">About the Bloghaven</h3><span class="clear"></span>
+                                        <div class="textwidget">A blog allowing Mr. Edwards to let the voice in his head further explore the truth, beauty, and goodness of Stonehaven's Christ-centered classical education.</div>
+                                    </div>
+                                    <div id="gdlr-core-recent-post-widget-1" class="widget widget_gdlr-core-recent-post-widget kingster-widget">
+                                        <h3 class="kingster-widget-title">Classical Christian Articles & Resources</h3><span class="clear"></span>
+                                        <div class="gdlr-core-recent-post-widget-wrap gdlr-core-style-1">
+                                            <div class="gdlr-core-recent-post-widget clearfix">
+                                                <div class="gdlr-core-recent-post-widget-thumbnail gdlr-core-media-image"><img src="../upload/habit-training.jpg" alt="" width="150" height="150" title="shutterstock_135948689" /></div>
+                                                <div class="gdlr-core-recent-post-widget-content">
+                                                    <div class="gdlr-core-recent-post-widget-title"><a href="https://www.circeinstitute.org/blog/habit-training-part-1-introduction">Habit Training</a></div>
+                                                    <div class="gdlr-core-recent-post-widget-info"><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date">June 18, 2020</span><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-author"><span class="gdlr-core-head" >By</span><a href="https://www.circeinstitute.org/blog/habit-training-part-1-introduction" title="Posts by Circe Institute" rel="author"> Circe Institute</a></span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="gdlr-core-recent-post-widget clearfix">
+                                                <div class="gdlr-core-recent-post-widget-thumbnail gdlr-core-media-image"><img src="../upload/dorothy-sayers.jpg" alt="" width="150" height="150" title="Student" /></div>
+                                                <div class="gdlr-core-recent-post-widget-content">
+                                                    <div class="gdlr-core-recent-post-widget-title"><a href="https://www.pccs.org/wp-content/uploads/2016/06/LostToolsOfLearning-DorothySayers.pdf">The Lost Tools of Learning</a></div>
+                                                    <div class="gdlr-core-recent-post-widget-info"><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-author"><span class="gdlr-core-head" >By</span><a href="https://www.pccs.org/wp-content/uploads/2016/06/LostToolsOfLearning-DorothySayers.pdf" title="Dorothy Sayers" rel="author"> Dorothy Sayers</a></span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="gdlr-core-recent-post-widget clearfix">
+                                                <div class="gdlr-core-recent-post-widget-thumbnail gdlr-core-media-image"><img src="../upload/math-jumble.jpg" alt="" width="150" height="150" title="shutterstock_481869205" /></div>
+                                                <div class="gdlr-core-recent-post-widget-content">
+                                                    <div class="gdlr-core-recent-post-widget-title"><a href="../forms/mathtruth.pdf">Mathematics... Comrephensible or Incomprehensible?</a></div>
+                                                    <div class="gdlr-core-recent-post-widget-info"><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-author"><span class="gdlr-core-head" >By</span><a href="../forms/mathtruth.pdf" title="Posts by Brett Edwards" rel="author"> Brett Edwards</a></span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    
+                                    <div id="gdlr-core-recent-portfolio-widget-1" class="widget widget_gdlr-core-recent-portfolio-widget kingster-widget">
+                                        <h3 class="kingster-widget-title">Classical Christian Books</h3><span class="clear"></span>
+                                        <div class="gdlr-core-recent-portfolio-widget-wrap clearfix">
+                                            <div class="gdlr-core-recent-portfolio-widget gdlr-core-media-image">
+                                                <a href="https://www.amazon.com/Recovering-Lost-Tools-Learning-Distinctively/dp/0891075836/ref=sr_1_1?crid=30AA616R97PEI&dchild=1&keywords=recovering+lost+tools+of+learning&qid=1593622720&sprefix=recovering+lost+t%2Caps%2C154&sr=8-1" target="new"><img src="../upload/recovering-lost-tools.jpg" alt="" width="150" height="150" title="Recovering Lost Tools of Learing" /><span class="gdlr-core-image-overlay "><i class="gdlr-core-image-overlay-icon gdlr-core-size-15 icon_link_alt"  ></i></span></a>
+                                            </div>
+                                            <div class="gdlr-core-recent-portfolio-widget gdlr-core-media-image">
+                                                <a href="https://www.amazon.com/Wisdom-Eloquence-Christian-Paradigm-Classical/dp/1581345526/ref=sr_1_1?dchild=1&keywords=wisdom+%26+eloquence&qid=1593622853&sr=8-1" target="new"><img src="../upload/wisdom-eloquence.jpg" alt="" width="150" height="150" title="Wisdom & Eloquence" /><span class="gdlr-core-image-overlay "><i class="gdlr-core-image-overlay-icon gdlr-core-size-15 icon_link_alt"  ></i></span></a>
+                                            </div>
+                                            <div class="gdlr-core-recent-portfolio-widget gdlr-core-media-image">
+                                                <a href="https://www.amazon.com/Seven-Laws-Teaching-Evaluation-Stephenson/dp/1591281768" target="new"><img src="../upload/seven-laws.jpg" alt="" width="150" height="150" title="Seven Laws of Teaching" /><span class="gdlr-core-image-overlay "><i class="gdlr-core-image-overlay-icon gdlr-core-size-15 icon_link_alt"  ></i></span></a>
+                                            </div>
+                                            <div class="gdlr-core-recent-portfolio-widget gdlr-core-media-image">
+                                                <a href="https://www.amazon.com/James-K-Smith/dp/0801035775/ref=sr_1_1?crid=2SFSNMGPEPO6K&dchild=1&keywords=desiring+the+kingdom+by+james+k.a.+smith&qid=1593622949&s=books&sprefix=desiring+the+kingdom%2Cstripbooks%2C154&sr=1-1" target="new"><img src="../upload/desiring-kingdom.jpg" alt="" width="150" height="150" title="Desiring the Kingdom" /><span class="gdlr-core-image-overlay "><i class="gdlr-core-image-overlay-icon gdlr-core-size-15 icon_link_alt"  ></i></span></a>
+                                            </div>
+                                            <div class="gdlr-core-recent-portfolio-widget gdlr-core-media-image">
+                                                <a href="https://www.amazon.com/Abolition-Man-C-S-Lewis/dp/0060652942/ref=sr_1_1?dchild=1&keywords=abolition+of+man&qid=1593622963&s=books&sr=1-1" target="new"><img src="../upload/abolition-man.jpg" alt="" width="150" height="150" title="Abolition of Man" /><span class="gdlr-core-image-overlay "><i class="gdlr-core-image-overlay-icon gdlr-core-size-15 icon_link_alt"  ></i></span></a>
+                                            </div>
+                                            <div class="gdlr-core-recent-portfolio-widget gdlr-core-media-image">
+                                                <a href="https://www.amazon.com/Beauty-Truths-Sake-Re-enchantment-Education/dp/1587434024/ref=sr_1_1?dchild=1&keywords=beauty+for+truth%27s+sake&qid=1593622977&s=books&sr=1-1" target="new"><img src="../upload/beauty-truths-sake.jpg" alt="" width="150" height="150" title="Beauty for Truth's Sake" /><span class="gdlr-core-image-overlay "><i class="gdlr-core-image-overlay-icon gdlr-core-size-15 icon_link_alt"  ></i></span></a>
+                                            </div>
+                                            <div class="gdlr-core-recent-portfolio-widget gdlr-core-media-image">
+                                                <a href="https://www.amazon.com/Shop-Class-Soulcraft-Inquiry-Value/dp/0143117467/ref=sr_1_1?dchild=1&keywords=shop+class+as+soulcraft&qid=1598893561&sr=8-1" target="new"><img src="../upload/shop-class.jpg" alt="" width="150" height="150" title="Shop Class as Soulcraft" /><span class="gdlr-core-image-overlay "><i class="gdlr-core-image-overlay-icon gdlr-core-size-15 icon_link_alt"  ></i></span></a>
+                                            </div>
+                                            <div class="gdlr-core-recent-portfolio-widget gdlr-core-media-image">
+                                                <a href="https://www.amazon.com/Great-Choice-Uncertainty-Luck-Why-Despite/dp/0062120999/ref=sr_1_2?dchild=1&keywords=great+by+choice&qid=1600107992&sr=8-2" target="new"><img src="../upload/great-choice.jpg" alt="" width="150" height="150" title="Great by Choice" /><span class="gdlr-core-image-overlay "><i class="gdlr-core-image-overlay-icon gdlr-core-size-15 icon_link_alt"  ></i></span></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+<!-- Begin Footer -->
+
+            <footer>
+                <div class="kingster-footer-wrapper ">
+                    <div class="kingster-footer-container kingster-container clearfix">
+                        <div class="kingster-footer-column kingster-item-pdlr kingster-column-15">
+                            <div id="text-2" class="widget widget_text kingster-widget">
+                                <div class="textwidget">
+                                    <p><img src="../upload/footer-logo.png" alt="" />
+                                        <br /> <span class="gdlr-core-space-shortcode" id="span_1dd7_10"></span>
+                                        <br /> 
+                                        <br /> 505 Atlanta Street
+                                        <br /> Marietta, GA 30060</p>
+                                    <p><span id="span_1dd7_11">(770) 874-8885</span>
+                                        <br /> <span class="gdlr-core-space-shortcode" id="span_1dd7_12"></span>
+                                        <br /> <a id="a_1dd7_8" href="mailto:frontdesk@stonehavenschool.org">frontdesk@stonehavenschool.org</a></p>
+                                    <div class="gdlr-core-divider-item gdlr-core-divider-item-normal gdlr-core-left-align">
+                                        <div class="gdlr-core-divider-line gdlr-core-skin-divider" id="div_1dd7_111"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="kingster-footer-column kingster-item-pdlr kingster-column-15">
+                            <div id="gdlr-core-custom-menu-widget-2" class="widget widget_gdlr-core-custom-menu-widget kingster-widget">
+                                <h3 class="kingster-widget-title">Academics</h3><span class="clear"></span>
+                                <div class="menu-our-campus-container">
+                                    <ul id="menu-our-campus" class="gdlr-core-custom-menu-widget gdlr-core-menu-style-plain">
+                                        <li class="menu-item"><a href="../academics/lower-philosophy.html">Academic Philosophy</a></li>
+                                        <li class="menu-item"><a href="../academics/scope-sequence.html">Curriculum</a></li>
+                                        <li class="menu-item"><a href="../about-us/faculty.html">Faculty & Staff</a></li>
+                                        <li class="menu-item"><a href="../academics/fine-arts.html">Fine Arts</a></li>
+                                        <li class="menu-item"><a href="../academics/nature-studies.html">Nature Studies</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="kingster-footer-column kingster-item-pdlr kingster-column-15">
+                            <div id="gdlr-core-custom-menu-widget-3" class="widget widget_gdlr-core-custom-menu-widget kingster-widget">
+                                <h3 class="kingster-widget-title">Admissions</h3><span class="clear"></span>
+                                <div class="menu-campus-life-container">
+                                    <ul id="menu-campus-life" class="gdlr-core-custom-menu-widget gdlr-core-menu-style-plain">
+                                        <li class="menu-item"><a href="../admissions/admissions-process.html">Admissions Process</a></li>
+                                        <li class="menu-item"><a href="../admissions/affordability.html">Affordability</a></li>
+                                        <li class="menu-item"><a href="../admissions/tours-openhouses.html">Tours & Open Houses</a></li>
+                                        <li class="menu-item"><a href="https://stonehaven.almastart.com/">Apply Now</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="kingster-footer-column kingster-item-pdlr kingster-column-15">
+                            <div id="gdlr-core-custom-menu-widget-4" class="widget widget_gdlr-core-custom-menu-widget kingster-widget">
+                                <h3 class="kingster-widget-title">Students & Parents</h3><span class="clear"></span>
+                                <div class="menu-academics-container">
+                                    <ul id="menu-academics" class="gdlr-core-custom-menu-widget gdlr-core-menu-style-plain">
+                                        <li class="menu-item"><a href="../student-life/life.html">Student Life</a></li>
+                                        <li class="menu-item"><a href="../student-life/athletics.html">Athletics</a></li>
+                                        <li class="menu-item"><a href="../student-life/house.html">House</a></li>
+                                        <li class="menu-item"><a href="https://stonehavenschool.square.site/">School Store</a></li>
+                                        <li class="menu-item"><a href="../parents/bloghaven.html">Bloghaven</a></li>
+                                        <li class="menu-item"><a href="../parents/cultivate.html">Cultivate</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="kingster-copyright-wrapper">
+                    <div class="kingster-copyright-container kingster-container clearfix">
+                        <div class="kingster-copyright-left kingster-item-pdlr">Copyright All Rights Reserved 2020, The Stonehaven School</div>
+                        <div class="kingster-copyright-right kingster-item-pdlr">
+                            <div class="gdlr-core-social-network-item gdlr-core-item-pdb  gdlr-core-none-align" id="div_1dd7_112">
+                                <a href="https://www.facebook.com/stonehavenschool" target="_blank" class="gdlr-core-social-network-icon" title="facebook">
+                                    <i class="fa fa-facebook" ></i>
+                                </a>
+                                <a href="https://vimeo.com/user39763469" target="_blank" class="gdlr-core-social-network-icon" title="vimeo">
+                                    <i class="fa fa-vimeo" ></i>
+                                </a>
+                                <a href="https://twitter.com/StonehavenEDU" target="_blank" class="gdlr-core-social-network-icon" title="twitter">
+                                    <i class="fa fa-twitter" ></i>
+                                </a>
+                                <a href="https://www.instagram.com/thestonehavenschool/" target="_blank" class="gdlr-core-social-network-icon" title="instagram">
+                                    <i class="fa fa-instagram" ></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+        </div>
+    </div>
+
+<!-- End Footer -->
+
+<!-- Begin Javascripts Section -->
+
+    <script type='text/javascript' src='../js/jquery/jquery.js'></script>
+    <script type='text/javascript' src='../js/jquery/jquery-migrate.min.js'></script>
+    <script type='text/javascript' src='../plugins/goodlayers-core/plugins/combine/script.js'></script>
+    <script type='text/javascript'>
+        var gdlr_core_pbf = {
+            "admin": "",
+            "video": {
+                "width": "640",
+                "height": "360"
+            },
+            "ajax_url": "#"
+        };
+    </script>
+    <script type='text/javascript' src='../plugins/goodlayers-core/include/js/page-builder.js'></script>
+    <script type='text/javascript' src='../js/jquery/ui/effect.min.js'></script>
+    <script type='text/javascript'>
+        var kingster_script_core = {
+            "home_url": "../index.html"
+        };
+    </script>
+    <script type='text/javascript' src='../js/plugins.min.js'></script>
+
+<!-- End Javascripts Section -->
+
+</body>
+</html>
+

@@ -1,0 +1,49 @@
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset=utf-8>
+	<meta http-equiv="refresh" content="0 ;url=https://careers.smartrecruiters.com/ForrestJohnson/the-stonehaven-school">
+
+	<title>The Stonehaven School - Classical Christian Education in Marietta, Georgia</title>
+	<link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700' rel='stylesheet' type='text/css'>
+	<link href="../css/redirect.css" rel="stylesheet" />
+</head>
+
+<body>
+
+
+<!-- begin main module -->
+
+<script>
+var downloadButton = document.getElementById("download");
+var counter = 0;
+var newElement = document.createElement("p");
+newElement.innerHTML = "";
+var id;
+
+downloadButton.parentNode.replaceChild(newElement, downloadButton);
+
+id = setInterval(function() {
+    counter--;
+    if(counter < 0) {
+        newElement.parentNode.replaceChild(downloadButton, newElement);
+        clearInterval(id);
+    } else {
+        newElement.innerHTML = "You will be redirected in " + counter.toString() + " seconds...";
+    }
+}, 0);
+</script>
+
+<!-- end main module -->
+
+
+</body>
+
+</html>
+
+
+
