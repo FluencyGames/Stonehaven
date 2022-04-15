@@ -1532,43 +1532,47 @@
         <div class="kingster-footer-container kingster-container clearfix">
          <div class="kingster-footer-column kingster-item-pdlr kingster-column-15">
           <div class="widget widget_text kingster-widget" id="text-2">
-           <div class="textwidget">
-            <p>
-             <img alt="" src="upload/footer-logo.png">
-             <br>
-             <span class="gdlr-core-space-shortcode" id="span_1dd7_10">
-             </span>
-             <br>
-             Main Campus (K-6th)
-             <br>
-             1480 Joyner Avenue
-             <br>
-             Marietta, GA 30060
-             <br>
-             <br>
-             Upper School Campus (7-10th)
-             <br>
-             1650 Old Concord Road
-             <br>
-             Marietta, GA 30060
-            </p>
-            <p>
-             <span id="span_1dd7_11">
-              (770) 874-8885
-             </span>
-             <br>
-             <span class="gdlr-core-space-shortcode" id="span_1dd7_12">
-             </span>
-             <br>
-             <a href="mailto:frontdesk@stonehavenschool.org" id="a_1dd7_8">
-              frontdesk@stonehavenschool.org
-             </a>
-            </p>
-            <div class="gdlr-core-divider-item gdlr-core-divider-item-normal gdlr-core-left-align">
-             <div class="gdlr-core-divider-line gdlr-core-skin-divider" id="div_1dd7_111">
-             </div>
-            </div>
-           </div>
+           <!--
+    <div class="textwidget">
+    <p><img src="upload/footer-logo.png" alt="" />
+    -->
+           <h3 class="kingster-widget-title">
+            Locations
+           </h3>
+           <!-- br /-->
+           <span class="gdlr-core-space-shortcode" id="span_1dd7_10">
+           </span>
+           <!-- br /-->
+           Main Campus (K-6th)
+           <br>
+           1480 Joyner Avenue
+           <br>
+           Marietta, GA 30060
+           <br>
+           <br>
+           Upper School Campus (7-10th)
+           <br>
+           1650 Old Concord Road
+           <br>
+           Marietta, GA 30060
+           <!--<p> -->
+           <p>
+            <br>
+            <br>
+            <!--span id="span_1dd7_11"-->
+            (770) 874-8885
+            <!--/span-->
+            <!-- <br /> span class="gdlr-core-space-shortcode" id="span_1dd7_12"></!--span-->
+            <br>
+            <a class="widget_text kingster-widget" href="mailto:frontdesk@stonehavenschool.org" id="a_1dd7_8">
+             frontdesk@stonehavenschool.org
+            </a>
+            <!-- </p>-->
+            <!-- <div class="gdlr-core-divider-item gdlr-core-divider-item-normal gdlr-core-left-align">
+        <div class="gdlr-core-divider-line gdlr-core-skin-divider" id="div_1dd7_111"></div>
+    </div>
+    -->
+           </p>
           </div>
          </div>
          <div class="kingster-footer-column kingster-item-pdlr kingster-column-15">

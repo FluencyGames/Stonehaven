@@ -1536,6 +1536,22 @@ ul.gdlr-core-category-background-widget li.gdlr-core-with-bg a:hover{ color: #ff
 
 /* staff pic swaps */
 
+.image-hover img {
+	transition: opacity 600ms ease-out, transform 600ms ease-out, filter 600ms ease-out;
+	-moz-transition: opacity 600ms ease-out, -moz-transform 600ms ease-out, -moz-filter 600ms ease-out;
+	-o-transition: opacity 600ms ease-out, -o-transform 600ms ease-out, -o-filter 600ms ease-out;
+	-webkit-transition: opacity 600ms ease-out, -webkit-transform 600ms ease-out, -webkit-filter 600ms ease-out;
+}
+
+.image-hover {
+	background: #000;
+}
+
+.image-hover:hover img {
+	opacity: 0.0;
+	filter: alpha(opacity=50);
+}
+
 .brett-hover img{
 	transition: opacity 600ms ease-out, transform 600ms ease-out, filter 600ms ease-out; 
 	-moz-transition: opacity 600ms ease-out, -moz-transform 600ms ease-out, -moz-filter 600ms ease-out; 
@@ -1549,7 +1565,7 @@ ul.gdlr-core-category-background-widget li.gdlr-core-with-bg a:hover{ color: #ff
 	-moz-transition: opacity 600ms ease-out, -moz-transform 600ms ease-out, -moz-filter 600ms ease-out; 
  	-o-transition: opacity 600ms ease-out, -o-transform 600ms ease-out, -o-filter 600ms ease-out; 
  	-webkit-transition: opacity 600ms ease-out, -webkit-transform 600ms ease-out, -webkit-filter 600ms ease-out; }
-.laura-hover{ background: #000; background-image: url("../../../../images/teachers/lkeesee-1.jpg"); }
+.laura-hover{ background: #000; background-image: url("../../../../images/teachers/lkeesee-1.jpg"); } 
 .laura-hover:hover img{ opacity: 0.0; filter: alpha(opacity=50); }
 
 .grace-hover img{
@@ -1560,13 +1576,13 @@ ul.gdlr-core-category-background-widget li.gdlr-core-with-bg a:hover{ color: #ff
 .grace-hover{ background: #000; background-image: url("../../../../images/teachers/gpotter-1.jpg"); }
 .grace-hover:hover img{ opacity: 0.0; filter: alpha(opacity=50); }
 
-.donna-hover img{
+.susan-hover img{
 	transition: opacity 600ms ease-out, transform 600ms ease-out, filter 600ms ease-out; 
 	-moz-transition: opacity 600ms ease-out, -moz-transform 600ms ease-out, -moz-filter 600ms ease-out; 
  	-o-transition: opacity 600ms ease-out, -o-transform 600ms ease-out, -o-filter 600ms ease-out; 
  	-webkit-transition: opacity 600ms ease-out, -webkit-transform 600ms ease-out, -webkit-filter 600ms ease-out; }
-.donna-hover{ background: #000; background-image: url("../../../../images/teachers/dsthill-1.jpg"); }
-.donna-hover:hover img{ opacity: 0.0; filter: alpha(opacity=50); }
+.susan-hover{ background: #000; background-image: url("../../../../images/teachers/scorley-1.jpg"); }
+.susan-hover:hover img{ opacity: 0.0; filter: alpha(opacity=50); }
 
 .pam-hover img{
 	transition: opacity 600ms ease-out, transform 600ms ease-out, filter 600ms ease-out; 
@@ -1688,13 +1704,13 @@ ul.gdlr-core-category-background-widget li.gdlr-core-with-bg a:hover{ color: #ff
 .hanbury-hover{ background: #000; background-image: url("../../../../images/teachers/hhanbury-1.jpg"); }
 .hanbury-hover:hover img{ opacity: 0.0; filter: alpha(opacity=50); }
 
-.skyler-hover img{
+.keilly-hover img{
 	transition: opacity 600ms ease-out, transform 600ms ease-out, filter 600ms ease-out; 
 	-moz-transition: opacity 600ms ease-out, -moz-transform 600ms ease-out, -moz-filter 600ms ease-out; 
  	-o-transition: opacity 600ms ease-out, -o-transform 600ms ease-out, -o-filter 600ms ease-out; 
  	-webkit-transition: opacity 600ms ease-out, -webkit-transform 600ms ease-out, -webkit-filter 600ms ease-out; }
-.skyler-hover{ background: #000; background-image: url("../../../../images/teachers/shand-1.jpg"); }
-.skyler-hover:hover img{ opacity: 0.0; filter: alpha(opacity=50); }
+.keilly-hover{ background: #000; background-image: url("../../../../images/teachers/kmichael-1.jpg"); }
+.keilly-hover:hover img{ opacity: 0.0; filter: alpha(opacity=50); }
 
 .stephanie-hover img{
 	transition: opacity 600ms ease-out, transform 600ms ease-out, filter 600ms ease-out; 
@@ -1760,13 +1776,13 @@ ul.gdlr-core-category-background-widget li.gdlr-core-with-bg a:hover{ color: #ff
 .melissad-hover{ background: #000; background-image: url("../../../../images/teachers/mdickinson-1.jpg"); }
 .melissad-hover:hover img{ opacity: 0.0; filter: alpha(opacity=50); }
 
-.laurad-hover img{
+.linda-hover img{
 	transition: opacity 600ms ease-out, transform 600ms ease-out, filter 600ms ease-out; 
 	-moz-transition: opacity 600ms ease-out, -moz-transform 600ms ease-out, -moz-filter 600ms ease-out; 
  	-o-transition: opacity 600ms ease-out, -o-transform 600ms ease-out, -o-filter 600ms ease-out; 
  	-webkit-transition: opacity 600ms ease-out, -webkit-transform 600ms ease-out, -webkit-filter 600ms ease-out; }
-.laurad-hover{ background: #000; background-image: url("../../../../images/teachers/ldeline-1.jpg"); }
-.laurad-hover:hover img{ opacity: 0.0; filter: alpha(opacity=50); }
+.linda-hover{ background: #000; background-image: url("../../../../images/teachers/lfulkerson-1.jpg"); }
+.linda-hover:hover img{ opacity: 0.0; filter: alpha(opacity=50); }
 
 .marty-hover img{
 	transition: opacity 600ms ease-out, transform 600ms ease-out, filter 600ms ease-out; 
@@ -1783,6 +1799,14 @@ ul.gdlr-core-category-background-widget li.gdlr-core-with-bg a:hover{ color: #ff
  	-webkit-transition: opacity 600ms ease-out, -webkit-transform 600ms ease-out, -webkit-filter 600ms ease-out; }
 .erin-hover{ background: #000; background-image: url("../../../../images/teachers/edenny-1.jpg"); }
 .erin-hover:hover img{ opacity: 0.0; filter: alpha(opacity=50); }
+
+.natalia-hover img{
+	transition: opacity 600ms ease-out, transform 600ms ease-out, filter 600ms ease-out; 
+	-moz-transition: opacity 600ms ease-out, -moz-transform 600ms ease-out, -moz-filter 600ms ease-out; 
+ 	-o-transition: opacity 600ms ease-out, -o-transform 600ms ease-out, -o-filter 600ms ease-out; 
+ 	-webkit-transition: opacity 600ms ease-out, -webkit-transform 600ms ease-out, -webkit-filter 600ms ease-out; }
+.natalia-hover{ background: #000; background-image: url("../../../../images/teachers/nhicks-1.jpg"); }
+.natalia-hover:hover img{ opacity: 0.0; filter: alpha(opacity=50); }
 
 .gdlr-core-grayscale-effect img{
 	-webkit-filter: grayscale(100%); 
